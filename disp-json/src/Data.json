@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "title": "Dune",
+        "description": "a film about sand worms"
+    },
+    {
+        "id": 2,
+        "title": "Batman",
+        "description": "im batman"
+    },
+    {
+        "id": 3,
+        "title": "Joker",
+        "description": "put on a happy face"
+    },
+    {
+        "id": 4,
+        "title": "Power Rangers",
+        "description": "its morphing time"
+    },
+    {
+        "id": 5,
+        "title": "Starwars",
+        "description": "a galaxy far far away"
+    },
+    {
+        "id": 6,
+        "title": "Avengers",
+        "description": "super heros saving the world"
+    }
+]
+
