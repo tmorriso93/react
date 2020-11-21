@@ -1,0 +1,62 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "This is the post body",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is the post body",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is the post body",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "title": "post four",
+      "httpId": "localhost:3000",
+      "id": "FmmSr6W"
+    },
+    {
+      "title": "post one",
+      "body": "this is 1",
+      "publishedAt": "2020-11-21",
+      "httpId": "localhost:3000",
+      "id": "5sjE0XB"
+    },
+    {
+      "title": "post two",
+      "body": "this is 2",
+      "publishedAt": "2020-11-21",
+      "httpId": "localhost:3000",
+      "id": "ON-P-Oq"
+    },
+    {
+      "title": "post three",
+      "body": "this is 3",
+      "publishedAt": "2020-11-21",
+      "httpId": "localhost:3000",
+      "id": "-XxocZo"
+    },
+    {
+      "title": "post five",
+      "body": "this is 5",
+      "publishedAt": "2020-11-21",
+      "httpId": "localhost:3000",
+      "id": "MxMBFHU"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "john Doe",
+      "email": "john@example.com"
+    }
+  ]
+}
